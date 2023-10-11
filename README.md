@@ -6,11 +6,11 @@
 - **Olá, eu sou @Portela12**
 - :+1:0 meu [e-mail](carvalho.sarah@escola.pr.gov.br)
 
-- 👋 Hi, I’m @Portela12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou a @Portela12
+- 👀 Eu estou interessada em progamação html
+- 🌱 Eu frequentemente busco aprender css, github, fisica
+- 💞️ Eu sou aluna de pensamento computacional , colégio Mario Quintana
+- 📫 Meu email é carvalho.sarah@escola.pr.gov.br
 
 <!---
 Portela12/Portela12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
